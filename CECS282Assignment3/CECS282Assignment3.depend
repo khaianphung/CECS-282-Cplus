@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1487362602 source:c:\users\chi trung\cecs 282 class\cecs282assignment3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<sstream>
+	<string.h>
+

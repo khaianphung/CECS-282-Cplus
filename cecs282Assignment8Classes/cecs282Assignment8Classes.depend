@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1491595215 source:c:\users\domishu\cecs282\cecs282assignment8classes\bankaccount.cpp
+	"BankAccount.h"
+	<cstdlib>
+	<iostream>
+	<time.h>
+
+1491594961 c:\users\domishu\cecs282\cecs282assignment8classes\bankaccount.h
+
+1491595938 source:c:\users\domishu\cecs282\cecs282assignment8classes\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	"BankAccount.h"
+	<vector>
+

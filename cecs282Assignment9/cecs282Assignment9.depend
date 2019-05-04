@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1492154745 source:c:\users\domishu\cecs282\cecs282assignment9\fraction.cpp
+	"Fraction.h"
+
+1492197987 c:\users\domishu\cecs282\cecs282assignment9\fraction.h
+	<iostream>
+
+1492198231 source:c:\users\domishu\cecs282\cecs282assignment9\main.cpp
+	"Fraction.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<vector>
+

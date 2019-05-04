@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1493419973 source:c:\users\domishu\cecs282\cecs282inclass12\main.cpp
+	<iostream>
+	"Date.h"
+	"Task.h"
+	"Time.h"
+
+1493413089 source:c:\users\domishu\cecs282\cecs282inclass12\src\date.cpp
+	"Date.h"
+	<iostream>
+
+1493418090 c:\users\domishu\cecs282\cecs282inclass12\include\date.h
+
+1493419320 source:c:\users\domishu\cecs282\cecs282inclass12\src\task.cpp
+	"Task.h"
+	<iostream>
+
+1493413089 c:\users\domishu\cecs282\cecs282inclass12\include\task.h
+	"Date.h"
+	"Time.h"
+	<iostream>
+
+1493418089 c:\users\domishu\cecs282\cecs282inclass12\include\time.h
+
+1493413089 source:c:\users\domishu\cecs282\cecs282inclass12\src\time.cpp
+	"Time.h"
+	<iostream>
+

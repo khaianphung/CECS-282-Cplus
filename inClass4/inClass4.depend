@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1487370862 source:c:\users\chi trung\cecs 282 class\inclass4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<sstream>
+	<string.h>
+	<vector>
+
+1487370864 source:c:\users\domishu\desktop\chuyen sang laptop\chi trung\cecs 282 class\inclass4\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<sstream>
+	<string.h>
+	<vector>
+

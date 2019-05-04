@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1493340221 source:c:\users\domishu\cecs282\cecs282assignment10\main.cpp
+	"Point.h"
+	"Shape.h"
+	"Rectangle.h"
+	"Oval.h"
+	"Triangle.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string>
+	<vector>
+
+1493338986 c:\users\domishu\cecs282\cecs282assignment10\include\point.h
+	<iostream>
+
+1493358830 c:\users\domishu\cecs282\cecs282assignment10\include\shape.h
+	<iostream>
+	"Point.h"
+
+1493340685 c:\users\domishu\cecs282\cecs282assignment10\include\rectangle.h
+	<iostream>
+	"Shape.h"
+
+1493343976 c:\users\domishu\cecs282\cecs282assignment10\include\oval.h
+	<iostream>
+	"Point.h"
+	"Shape.h"
+
+1493340296 c:\users\domishu\cecs282\cecs282assignment10\include\triangle.h
+	<iostream>
+	"Shape.h"
+
+1493340684 source:c:\users\domishu\cecs282\cecs282assignment10\src\point.cpp
+	"Point.h"
+	<math.h>
+

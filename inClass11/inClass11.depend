@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1492810813 source:c:\users\domishu\cecs282\inclass11\main.cpp
+	"Cat.h"
+	"Ocelot.h"
+	"Tabby.h"
+	"Tiger.h"
+	<iostream>
+
+1492809519 c:\users\domishu\cecs282\inclass11\include\cat.h
+	<iostream>
+
+1492809519 c:\users\domishu\cecs282\inclass11\include\ocelot.h
+	"Cat.h"
+
+1492809519 c:\users\domishu\cecs282\inclass11\include\tabby.h
+	"Cat.h"
+
+1492809519 c:\users\domishu\cecs282\inclass11\include\tiger.h
+	"Cat.h"
+
+1492809519 source:c:\users\domishu\cecs282\inclass11\src\cat.cpp
+	"Cat.h"
+	<iostream>
+
+1492810063 source:c:\users\domishu\cecs282\inclass11\src\tiger.cpp
+	"Tiger.h"
+	<iostream>
+
+1492810063 source:c:\users\domishu\cecs282\inclass11\src\ocelot.cpp
+	"Ocelot.h"
+	<iostream>
+
+1493361887 source:c:\users\domishu\cecs282\inclass11\src\tabby.cpp
+	"Tabby.h"
+	<iostream>
+

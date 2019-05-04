@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1488579906 source:c:\users\domishu\cecs282\inclass6\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<string>
+	<sstream>
+	<string.h>
+	<vector>
+

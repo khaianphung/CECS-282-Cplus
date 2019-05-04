@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1488579896 source:c:\users\domishu\cecs282\assignment5\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1492206043 source:c:\users\domishu\cecs282\inclass10\main.cpp
+	"Rectangle.h"
+	"Cube.h"
+	<iostream>
+
+1492204126 c:\users\domishu\cecs282\inclass10\cube.h
+	"Rectangle.h"
+
+1492203679 c:\users\domishu\cecs282\inclass10\rectangle.h
+	<iostream>
+

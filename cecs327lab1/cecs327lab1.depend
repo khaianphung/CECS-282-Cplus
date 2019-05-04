@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1517791855 source:c:\users\domishu\cecs282\cecs327lab1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<ctime>
+

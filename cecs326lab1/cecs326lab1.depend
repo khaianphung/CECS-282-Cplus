@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1517981230 source:c:\users\domishu\cecs282\cecs326lab1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstring>
+	<cstdlib>
+	<ctime>
+	<cassert>
+

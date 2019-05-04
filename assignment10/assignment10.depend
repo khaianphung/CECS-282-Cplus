@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1493348657 source:c:\users\domishu\cecs282\assignment10\main.cpp
+	"Point.h"
+	"Shape.h"
+	"Triangle.h"
+	"Circle.h"
+	"Polygon.h"
+	"Rectangle.h"
+	<iostream>
+
+1493348723 c:\users\domishu\cecs282\assignment10\include\point.h
+
+1493348664 c:\users\domishu\cecs282\assignment10\include\shape.h
+	"Point.h"
+	<iostream>
+
+1493348657 c:\users\domishu\cecs282\assignment10\include\triangle.h
+	"Point.h"
+	"Polygon.h"
+
+1493348723 c:\users\domishu\cecs282\assignment10\include\polygon.h
+	"Shape.h"
+
+1493348723 c:\users\domishu\cecs282\assignment10\include\circle.h
+	"Point.h"
+	"Shape.h"
+
+1493348657 c:\users\domishu\cecs282\assignment10\include\rectangle.h
+	"Point.h"
+	"Polygon.h"
+
+1493348657 source:c:\users\domishu\cecs282\assignment10\src\circle.cpp
+	"Circle.h"
+	"Point.h"
+	<iostream>
+
+1493348657 source:c:\users\domishu\cecs282\assignment10\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1493348657 source:c:\users\domishu\cecs282\assignment10\src\polygon.cpp
+	"Polygon.h"
+	"Shape.h"
+	"Point.h"
+	<cmath>
+
+1493348657 source:c:\users\domishu\cecs282\assignment10\src\rectangle.cpp
+	<iostream>
+	"Rectangle.h"
+
+1493348735 source:c:\users\domishu\cecs282\assignment10\src\shape.cpp
+	"Shape.h"
+
+1493348657 source:c:\users\domishu\cecs282\assignment10\src\triangle.cpp
+	<cmath>
+	"Triangle.h"
+	<iostream>
+

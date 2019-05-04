@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1491602737 source:c:\users\domishu\cecs282\inclass9\main.cpp
+	"Point.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<vector>
+
+1491602004 c:\users\domishu\cecs282\inclass9\point.h
+	<iostream>
+
+1491601992 source:c:\users\domishu\cecs282\inclass9\point.cpp
+	"Point.h"
+

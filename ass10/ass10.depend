@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1493415720 source:c:\users\domishu\cecs282\ass10\main.cpp
+	"Point.h"
+	"Shape.h"
+	"Rectangle.h"
+	"Oval.h"
+	"Triangle.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<string>
+	<vector>
+
+1493363746 source:c:\users\domishu\cecs282\ass10\src\point.cpp
+	<iostream>
+	"Point.h"
+
+1493408577 c:\users\domishu\cecs282\ass10\include\point.h
+
+1493408577 source:c:\users\domishu\cecs282\ass10\src\shape.cpp
+	"Shape.h"
+	<math.h>
+
+1493408577 c:\users\domishu\cecs282\ass10\include\shape.h
+	<iostream>
+	"Point.h"
+
+1493408577 source:c:\users\domishu\cecs282\ass10\src\rectangle.cpp
+	"Rectangle.h"
+	<math.h>
+
+1493409024 c:\users\domishu\cecs282\ass10\include\rectangle.h
+	<iostream>
+	"Shape.h"
+
+1493408577 source:c:\users\domishu\cecs282\ass10\src\triangle.cpp
+	"Triangle.h"
+	<stdio.h>
+	<math.h>
+
+1493409024 c:\users\domishu\cecs282\ass10\include\triangle.h
+	<iostream>
+	"Shape.h"
+
+1493408577 source:c:\users\domishu\cecs282\ass10\src\oval.cpp
+	"Oval.h"
+	<math.h>
+
+1493409024 c:\users\domishu\cecs282\ass10\include\oval.h
+	<iostream>
+	"Point.h"
+	"Shape.h"
+

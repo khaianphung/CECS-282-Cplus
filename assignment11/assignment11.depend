@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1494627882 source:c:\users\domishu\cecs282\assignment11\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<stack>
+	<queue>
+	"Point.h"
+
+1494626426 c:\users\domishu\cecs282\assignment11\include\point.h
+	<iostream>
+
+1494626426 source:c:\users\domishu\cecs282\assignment11\src\point.cpp
+	"Point.h"
+

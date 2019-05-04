@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1490309473 source:c:\users\domishu\cecs282\cecs282inclass8\dice.cpp
+	"Dice.h"
+	<cstdlib>
+	<ctime>
+
+1490309264 c:\users\domishu\cecs282\cecs282inclass8\include\dice.h
+
+1490308186 source:c:\users\domishu\cecs282\cecs282inclass8\main.cpp
+	<iostream>
+	"Dice.cpp"
+	"Player.cpp"
+
+1490309473 c:\users\domishu\cecs282\cecs282inclass8\dice.cpp
+	"Dice.h"
+	<cstdlib>
+	<ctime>
+
+1490308141 c:\users\domishu\cecs282\cecs282inclass8\player.cpp
+	"Player.h"
+	<cstdlib>
+	<ctime>
+
+1490309090 c:\users\domishu\cecs282\cecs282inclass8\include\player.h
+	<iostream>
+	<string>
+	<cstdlib>
+	<time.h>
+	"Dice.h"
+
+1490308141 source:c:\users\domishu\cecs282\cecs282inclass8\player.cpp
+	"Player.h"
+	<cstdlib>
+	<ctime>
+

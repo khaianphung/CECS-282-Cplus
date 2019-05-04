@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1494626220 source:c:\users\domishu\cecs282\cecs282assignment11mazesolver\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<vector>
+	<stack>
+	<deque>
+	"Point.h"
+
+1494578090 source:c:\users\domishu\cecs282\cecs282assignment11mazesolver\src\point.cpp
+	"Point.h"
+
+1494578090 c:\users\domishu\cecs282\cecs282assignment11mazesolver\include\point.h
+	<iostream>
+
